@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/BrkRaw/brkraw/main/docs/assets/brkraw-logo.gif" width="256" height="256" alt="brkraw logo">
+  <img src="assets/brkraw-logo.gif" width="256" height="256" alt="brkraw logo">
 </p>
 
 # BrkRaw
