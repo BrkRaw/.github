@@ -1,5 +1,5 @@
-<div align="left">
-  <img src="assets/brkraw-logo.gif" width="320" alt="brkraw logo" style="margin:0; height:auto;">
+<div align="center">
+  <img src="assets/brkraw-logo.gif?v=2" width="320" alt="brkraw logo" style="margin:0; height:auto;">
 </div>
 
 ---
