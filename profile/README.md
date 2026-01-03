@@ -1,6 +1,6 @@
-<p align="center">
-  <img src="assets/brkraw-logo.gif" width="256" height="256" alt="brkraw logo">
-</p>
+<div align="center">
+  <img src="assets/brkraw-logo.gif" width="320" height="80" alt="brkraw logo" style="margin:0;">
+</div>
 
 # BrkRaw
 
