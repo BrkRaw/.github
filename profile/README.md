@@ -1,8 +1,8 @@
-<div align="center">
-  <img src="assets/brkraw-logo.gif?v=2" width="320" alt="brkraw logo" style="margin:0; height:auto;">
+<div align="left">
+  <img src="assets/brkraw-logo.gif?v=2" width="220" alt="brkraw logo" style="margin:0; height:auto;">
 </div>
 
----
+<hr style="border:0; border-top:1px solid #e5e7eb; margin:12px 0;">
 
 BrkRaw is a tool that turns raw data from Bruker Biospin preclinical MRI scanners
 into standardized, neuroimaging-ready datasets. It enables users to build YAML-based
