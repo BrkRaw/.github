@@ -1,15 +1,19 @@
 <div align="left">
-  <img src="assets/brkraw-logo.gif?v=2" width="220" alt="brkraw logo" style="margin:0; height:auto;">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/brkraw-logo-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/brkraw-logo-light.svg">
+    <img src="assets/brkraw-logo-light.svg" width="220" alt="brkraw logo" style="margin:0; height:auto;">
+  </picture>
 </div>
 
 <hr style="border:0; border-top:1px solid #e5e7eb; margin:12px 0;">
 
-BrkRaw is a tool that turns raw data from Bruker Biospin preclinical MRI scanners
-into standardized, neuroimaging-ready datasets. It enables users to build YAML-based
-rules/specs for addons without touching the core codebase, and extends functionality
-via Python package entrypoints for plugins. This supports metadata parsing, data
-conversion, and reconstruction so raw data can be used easily across downstream
-applications with a seamless workflow.
+The BrkRaw organization maintains and distributes BrkRaw, which converts raw data
+from Bruker Biospin preclinical MRI scanners into standardized, neuroimaging-ready
+datasets. At the same time, we enable extension development and distribution without
+touching the core codebase through YAML-based rules/specs and Python plugin entrypoints.
+Our goal is to make metadata parsing, data conversion, and reconstruction extensible
+so the data can be used seamlessly across downstream workflows.
 
 ## What we provide
 
